@@ -1,0 +1,27 @@
+.main{
+    height:600px;
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
+    background-color:blueviolet;
+    border:"2px olid red"
+}
+
+
+.container{
+    width: 75%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 20px #606060;
+    padding: 20px 10px;
+   
+    background-color: red;
+}
+
+.container table {
+    margin: 0 auto;
+    width: 700px;
+}
